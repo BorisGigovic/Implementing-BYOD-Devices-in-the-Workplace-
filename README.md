@@ -83,7 +83,7 @@ Supporting a diverse range of personal devices can be challenging for IT departm
 
 **- Support Desk:** Establish a dedicated support desk for BYOD-related issues. 
 
-**- Training Programs: **Offer training programs to help employees understand how to securely use their personal devices for work. 
+**- Training Programs:** Offer training programs to help employees understand how to securely use their personal devices for work. 
 
 **- Documentation:** Provide detailed documentation and resources to assist employees with common BYOD issues. 
 
